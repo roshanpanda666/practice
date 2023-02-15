@@ -1,8 +1,10 @@
 import './App.css'
 import MyContent from "./components/cbtn";
 function App() {
+  
   return (
       <div className='fatherorigin'>
+
 
           <MyContent  title="hello"></MyContent>
 
