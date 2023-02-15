@@ -1,0 +1,21 @@
+.fatherbtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.clickme{
+    background-color: aqua;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    transition-duration:400ms ;
+}
+.clickme:hover{
+    background-color: rgb(20, 255, 4);
+    width: 110px;
+    height: 50px;
+    border-radius: 30px;
+}
